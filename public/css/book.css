@@ -1,0 +1,67 @@
+#banner{
+  margin-top: 100px;
+}
+blockquote p, #nav, table{
+  font-family: Microsoft YaHei;
+
+}
+#nav{
+  font-size: 20px;
+
+}
+.page-header{
+margin: 42px 0px 0px;
+
+}
+td,tr{
+  height: 50px;
+  
+}
+.table > tbody > tr > td{
+line-height: 2.2em;
+
+}
+.table > thead > tr > th{
+border-bottom: 1px solid #DDD;
+}
+.table > thead > tr > th{
+line-height: 2;
+font-size: 15px;
+
+}
+
+
+
+.i_post-right {
+    float: right !important;
+    margin-right: 0px;
+    margin-top: -45px;
+}
+
+
+hr{
+	margin-bottom:5px;
+	
+	}
+.table a:link {
+	color: #333;
+	text-decoration: none;
+}
+.table a:visited {
+	color: #333;
+}
+.table a:hover {
+	color: #165ba8;
+}
+.table a:active {
+	color: #333;
+}	
+
+.table a:not(.btn), .table a:not(.btn){text-decoration: none;}
+
+
+
+.col-left{
+	margin-left: -15px;
+
+}
